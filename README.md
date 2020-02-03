@@ -8,7 +8,7 @@
 
 ## 生成小狗效果展示
 
-![生成小狗效果展示](https://github.com/Morxrc/kaggle_generate-dogs_public-1st-private-16th-solution/blob/master/Generate%20dogs%20pic.png
+![生成小狗效果展示](https://github.com/Morxrc/kaggle_generate-dogs_public-1st-private-16th-solution/blob/master/Generate%20dogs%20pic.png)
 
 
 
